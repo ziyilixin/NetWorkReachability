@@ -1,0 +1,2 @@
+# NetWorkReachability
+Network type judgment
